@@ -1,6 +1,25 @@
 .post
     margin-top: 125px
 
+    > .button-container
+        display: flex
+        justify-content: space-around
+        > a.button
+            text-align: center
+            background: $epsilon
+            border-radius: 5px
+            color: $beta
+            padding: 10px 20px
+            text-decoration: none
+            width: 300px
+
+            &:hover
+                background: $alpha
+                color: $epsilon
+            
+            > i
+                padding-right: 5px
+
     > .title
         text-align: center
         margin-bottom: 3rem
