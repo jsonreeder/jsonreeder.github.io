@@ -5,20 +5,26 @@
         display: flex
         justify-content: space-around
         > a.button
-            text-align: center
+            align-items: center
             background: $epsilon
             border-radius: 5px
             color: $beta
+            display: flex
+            justify-content: center
             padding: 10px 20px
+            text-align: center
             text-decoration: none
             width: 300px
 
             &:hover
                 background: $alpha
                 color: $epsilon
-            
+
+            &:first-of-type
+                margin-right: 10px
+
             > i
-                padding-right: 5px
+                padding-right: 10px
 
     > .title
         text-align: center
