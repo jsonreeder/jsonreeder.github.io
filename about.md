@@ -6,12 +6,13 @@ layout: page
 
 ## Jason _Who?_
 
-I'm a developer, linguist, and punslinger based out of SF. I build websites using Ruby on Rails, React, PostgreSQL, and Sass. I script in Ruby and Python. I write in Spacemacs and VS Code. I'm from Oakland, but have called a number of other cities home, including Cairo, Tangier, Amman, and Los Mochis. Ask me about living in plain text, Arabic linguistics, mindfulness, or bluegrass guitar.
+I'm a developer, linguist, and punslinger based out of SF. I build websites using React, Flask, Rails, Google Cloud, PostgreSQL, and Sass. I script in Python and Ruby. I'm from Oakland, but have called a number of other cities home, including Cairo, Tangier, Amman, and Los Mochis. Ask me about living in plain text, Arabic linguistics, mindfulness, or bluegrass guitar.
 
 ## Affiliations
 
 A few groups, organizations, and endeavors that I am proud to have been part of:
 
+- [Wellio](http://www.getwellio.com/): My current job as the Chief Pun Officer and software engineer
 - [Google Research](https://research.google.com/): My main gig from 2015-2016, as an Arabic linguist
 - [The Sanskrit Library](http://sanskritlibrary.org/): A digital library of all things Sanskrit, where I added Arabic support
 - [Thrive East Bay](http://www.thriveeastbay.org/): A community dedicated to creating a flourishing world, where I play guitar
@@ -29,7 +30,6 @@ Tools, groups, and teachers that have added to my life:
 
 - [Org-mode](http://orgmode.org/): How I manage my digital brain
 - [Spacemacs](http://spacemacs.org/): My text editor of choice
-- [VS Code](https://code.visualstudio.com/): My text editor of necessity
 - [The Kinesis Advantage](https://www.kinesis-ergo.com/shop/advantage2/): The little keyboard that could
 - [App Academy](https://www.appacademy.io/): How I learned Ruby, JavaScript, Rails, React, SQL, HTML, and CSS
 - [Thinkful](https://www.thinkful.com/): How I learned Python, Git, OOP, and TDD
