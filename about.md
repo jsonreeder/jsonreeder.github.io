@@ -6,7 +6,7 @@ layout: page
 
 ## Jason _Who?_
 
-I'm a developer, linguist, and punslinger based out of SF. I build websites using React, Flask, Rails, Google Cloud, PostgreSQL, and Sass. I script in Python and Ruby. I'm from Oakland, but have called a number of other cities home, including Cairo, Tangier, Amman, and Los Mochis. Ask me about living in plain text, Arabic linguistics, mindfulness, or bluegrass guitar.
+I'm a developer, linguist, and punslinger based out of SF. I build applications for the web and mobile devices. I'm from Oakland but have called a number of other cities home, including Cairo, Tangier, Amman, and Los Mochis. Ask me about living in plain text, Arabic linguistics, mindfulness, or bluegrass guitar.
 
 ## Affiliations
 
